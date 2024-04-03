@@ -13,6 +13,8 @@ Based on "Fortiche presents: Creating an artist friendly pipeline" at https://ww
 
 ![AYON_Relational_Data_Model](https://github.com/vanHeemstraSystems/ayon/assets/1499433/d9ace809-b15c-4f2c-bc96-c44aee9ec273)
 
+![AYON_Built-In_Metadata](https://github.com/vanHeemstraSystems/ayon/assets/1499433/dc0fb79d-6ee4-4bfe-b82a-7a5bb166be3d)
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
