@@ -12,3 +12,16 @@ If you are testing or working by yourself, you can also grab installation files 
 
 **INFO**: To install AYON you will need administrator permissions.
 
+PICK YOUR PLATFORM:
+
+## 100 - Windows
+
+See [README.md](./100/README.md)
+
+## 200 - Linux
+
+See [README.md](./200/README.md)
+
+## 300 - Mac OS X
+
+See [README.md](./300/README.md)
