@@ -18,6 +18,8 @@ See [README.md](./400/README.md)
 
 ## 500 - Updates
 
-See [README.md](./600/README.md)
+See [README.md](./500/README.md)
 
-MORE ...
+## 600 - Advanced Usage
+
+See [README.md](./600/README.md)
