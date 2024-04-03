@@ -3,6 +3,8 @@ ayon
 
 Based on "AYON Playground" at https://playground.ayon.app/dashboard/tasks
 
+Based on "AYON Docs" at https://ayon.ynput.io/
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
