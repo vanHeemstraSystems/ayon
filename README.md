@@ -11,6 +11,8 @@ Based on "Ynput presents: AYON pipeline beta early access" at https://www.youtub
 
 Based on "Fortiche presents: Creating an artist friendly pipeline" at https://www.youtube.com/watch?v=Jver12PfhWU
 
+![AYON_Relational_Data_Model](https://github.com/vanHeemstraSystems/ayon/assets/1499433/d9ace809-b15c-4f2c-bc96-c44aee9ec273)
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
