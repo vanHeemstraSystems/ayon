@@ -5,6 +5,8 @@ Based on "AYON Playground" at https://playground.ayon.app/dashboard/tasks
 
 Based on "AYON Docs" at https://ayon.ynput.io/
 
+Based on "Getting started with AYON" at https://ayon.ynput.io/docs/artist_getting_started
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
