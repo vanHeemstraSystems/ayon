@@ -9,6 +9,8 @@ Based on "Getting started with AYON" at https://ayon.ynput.io/docs/artist_gettin
 
 Based on "Ynput presents: AYON pipeline beta early access" at https://www.youtube.com/watch?v=gacSfhnIxeU
 
+Based on "Fortiche presents: Creating an artist friendly pipeline" at https://www.youtube.com/watch?v=Jver12PfhWU
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
